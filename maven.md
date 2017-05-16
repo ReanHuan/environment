@@ -26,4 +26,14 @@ Maven安装&简单使用
 ![6](images/maven6.jpg)
 
 6. 测试MAVEN安装是否成功，出现下图情况，说明安装成功
-![7](images/maven7.jpg)
+  ![7](images/maven7.jpg)
+
+
+
+7. MAVEN 在eclipse中的配置
+   1. ​![8](images/maven8.jpg)
+   2. ​![9](images/maven9.jpg)
+   3. ​![10](images/maven10.jpg)
+   4. ​![11](images/maven11.jpg)
+   5. ​![12](images/maven12.jpg)
+   6. ​![13](images/maven13.jpg)
