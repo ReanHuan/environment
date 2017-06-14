@@ -2,16 +2,16 @@
 开发环境安装集锦
 
 
-1.Java
-2.[Maven](maven.md)
-3.Gradle
-4.Ant 
-5.Svn
-6.Mysql
-7.Oracle
-8.Navicat
-9.PL /SQL Develper
-10.eclipse
-11.IDEA
-12.WebStom
-13.Android Studio
+1.Java <br>
+2.[Maven](maven.md) <br>
+3.Gradle <br>
+4.Ant  <br>
+5.Svn  <br>
+6.Mysql  <br>
+7.Oracle  <br>
+8.Navicat  <br>
+9.PL /SQL Develper <br>
+10.eclipse <br>
+11.IDEA  <br>
+12.WebStom  <br>
+13.Android Studio  <br>
