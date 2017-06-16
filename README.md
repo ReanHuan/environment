@@ -12,6 +12,6 @@
 8.Navicat  <br>
 9.PL /SQL Develper <br>
 10.eclipse <br>
-11.IDEA  <br>
+11.[IDEA](idea.md)  <br>
 12.WebStom  <br>
 13.Android Studio  <br>
